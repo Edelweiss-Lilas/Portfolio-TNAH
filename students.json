@@ -1,5 +1,12 @@
 [
   {
+    "prenom": "Ségolène",
+    "nom": "Albouy",
+    "promo": 2019,
+    "github_page": "https://segolene-albouy.github.io/",
+    "matiere_preferee": "Git",
+    "emoji": "🍓"
+  },{
     "prenom": "Maud",
     "nom": "Mélinand",
     "promo": 2025,
